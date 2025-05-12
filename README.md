@@ -28,22 +28,3 @@ o Calculate subtotals and apply tax.
 o Calculate the final total, including tax and optional discounts.
 o Generate a detailed receipt for the customer.
 
-4. Payment Methods (Optional Extension):
-o Integrate multiple payment options, such as cash or credit card payment,
-using polymorphism in C++.
-
-Technology:
-• Programming Language: C++ (Using Object-Oriented Programming)
-• Core Concepts: Classes, objects, inheritance, polymorphism, and encapsulation
-Project Scope:
-• The initial version will focus on basic order management, total calculations, and
-receipt generation.
-• Future versions could extend the system with inventory management, customer
-profiles, and report generation.
-Expected Outcomes:
-• A working Restaurant POS System that can handle typical restaurant order and
-billing processes.
-• Hands-on experience in applying OOP concepts (encapsulation, inheritance, and
-polymorphism) in a real-world application.
-• A scalable and modular system that can be expanded in the future to add new
-features and integrations.
