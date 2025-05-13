@@ -1,0 +1,23 @@
+1
+Margherita Pizza
+1299 10
+
+2
+Caesar Salad
+849 15
+
+3
+Lemonade
+399 20
+
+4
+Kheer
+200 21
+
+5
+Burger
+500 10
+
+6
+Rice
+400 30
